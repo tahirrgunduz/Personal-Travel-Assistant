@@ -1,2 +1,3 @@
 # Personal-Travel-Assistant
-Comp491
+
+Despite personal assistants like Alexa and Siri. Searching for airline tickets that fit your specific set of constraints (dates, budget, airline preferences, number of stopovers, overnight layovers, ...) remains a labor intensive process. This is partly due to the fact that the constraints are often impossible to satisfy all together. The other reason is that any automated agents belong to the travel sites, not to you, so you have to constantly come back to the site and repeat yourself.  The idea is to have an automated travel assistant that belongs to you, knows your preferences and applies them in the background - popping up alerts on your phone only when it finds something that might interest you.
